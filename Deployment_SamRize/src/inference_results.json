@@ -1,0 +1,450 @@
+{
+  "Galaxy Note 10 Plus": {
+    "specs": {
+      "model_name": "Galaxy Note 10 Plus",
+      "price": 243.95,
+      "battery": 4300,
+      "ram": 12,
+      "storage": 256,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.8,
+      "resolution": "3040 x 1440",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "battery",
+      "build"
+    ],
+    "weakness": [
+      "connectivity",
+      "screen",
+      "battery"
+    ]
+  },
+  "Galaxy Note 20 Ultra 5G": {
+    "specs": {
+      "model_name": "Galaxy Note 20 Ultra 5G",
+      "price": 269.0,
+      "battery": 4500,
+      "ram": 12,
+      "storage": 128,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.9,
+      "resolution": "1440x3088",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "connectivity",
+      "screen"
+    ],
+    "weakness": [
+      "screen",
+      "build"
+    ]
+  },
+  "Galaxy S22 Ultra 5G": {
+    "specs": {
+      "model_name": "Galaxy S22 Ultra 5G",
+      "price": 285.25,
+      "battery": 5000,
+      "ram": 8,
+      "storage": 128,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.8,
+      "resolution": "1440x3088",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "battery",
+      "software"
+    ],
+    "weakness": [
+      "screen",
+      "camera"
+    ]
+  },
+  "Galaxy S23": {
+    "specs": {
+      "model_name": "Galaxy S23",
+      "price": 245.53,
+      "battery": 3900,
+      "ram": 8,
+      "storage": 128,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.1,
+      "resolution": "1080 x 2340",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "battery",
+      "build",
+      "software"
+    ],
+    "weakness": [
+      "battery",
+      "screen",
+      "camera"
+    ]
+  },
+  "Galaxy S23+ 5G": {
+    "specs": {
+      "model_name": "Galaxy S23+ 5G",
+      "price": 309.31,
+      "battery": 4700,
+      "ram": 8,
+      "storage": 256,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.6,
+      "resolution": "1080 x 2340",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "battery"
+    ],
+    "weakness": [
+      "screen",
+      "software",
+      "battery"
+    ]
+  },
+  "Galaxy S24 5G": {
+    "specs": {
+      "model_name": "Galaxy S24 5G",
+      "price": 335.73,
+      "battery": 4000,
+      "ram": 8,
+      "storage": 128,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.2,
+      "resolution": "1080 x 2340",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "connectivity",
+      "software",
+      "battery"
+    ],
+    "weakness": [
+      "software",
+      "battery",
+      "connectivity"
+    ]
+  },
+  "Galaxy S25": {
+    "specs": {
+      "model_name": "Galaxy S25",
+      "price": 439.98,
+      "battery": 4000,
+      "ram": 12,
+      "storage": 128,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.2,
+      "resolution": "2340 x 1080",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "connectivity",
+      "performance",
+      "screen"
+    ],
+    "weakness": [
+      "screen",
+      "software",
+      "connectivity"
+    ]
+  },
+  "Galaxy S25 FE": {
+    "specs": {
+      "model_name": "Galaxy S25 FE",
+      "price": 679.99,
+      "battery": 4900,
+      "ram": 8,
+      "storage": 256,
+      "cpu_model": "Exynos 2400 S5E9945",
+      "screen_size": 6.7,
+      "resolution": "2340 x 1080",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "screen",
+      "software"
+    ],
+    "weakness": [
+      "battery",
+      "camera",
+      "connectivity"
+    ]
+  },
+  "Galaxy S25 Ultra": {
+    "specs": {
+      "model_name": "Galaxy S25 Ultra",
+      "price": 768.98,
+      "battery": 5000,
+      "ram": 12,
+      "storage": 256,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.9,
+      "resolution": "1440 x 3120",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "performance",
+      "screen",
+      "battery"
+    ],
+    "weakness": [
+      "battery",
+      "connectivity"
+    ]
+  },
+  "Galaxy Z Flip 4": {
+    "specs": {
+      "model_name": "Galaxy Z Flip 4",
+      "price": 232.13,
+      "battery": 3700,
+      "ram": 8,
+      "storage": 128,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.7,
+      "resolution": "1440 x 2560",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "performance",
+      "camera",
+      "battery"
+    ],
+    "weakness": [
+      "build",
+      "connectivity",
+      "battery"
+    ]
+  },
+  "Galaxy Z Flip5 5G": {
+    "specs": {
+      "model_name": "Galaxy Z Flip5 5G",
+      "price": 319.95,
+      "battery": 3700,
+      "ram": 8,
+      "storage": 256,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.7,
+      "resolution": "2640x1080",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "build",
+      "screen",
+      "software"
+    ],
+    "weakness": [
+      "screen",
+      "build",
+      "performance"
+    ]
+  },
+  "Galaxy Z Flip7 FE": {
+    "specs": {
+      "model_name": "Galaxy Z Flip7 FE",
+      "price": 639.99,
+      "battery": 4000,
+      "ram": 8,
+      "storage": 256,
+      "cpu_model": "Exynos 2400 S5E9945",
+      "screen_size": 6.7,
+      "resolution": "1080 x 2400",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "software",
+      "camera"
+    ],
+    "weakness": [
+      "screen",
+      "battery",
+      "build"
+    ]
+  },
+  "Galaxy Z Fold 4": {
+    "specs": {
+      "model_name": "Galaxy Z Fold 4",
+      "price": 390.4,
+      "battery": 4400,
+      "ram": 12,
+      "storage": 512,
+      "cpu_model": "Snapdragon",
+      "screen_size": 7.6,
+      "resolution": "1812 x 2176",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "connectivity",
+      "battery"
+    ],
+    "weakness": [
+      "build",
+      "battery"
+    ]
+  },
+  "Galaxy Z Fold7": {
+    "specs": {
+      "model_name": "Galaxy Z Fold7",
+      "price": 2119.99,
+      "battery": 4400,
+      "ram": 12,
+      "storage": 512,
+      "cpu_model": "Others",
+      "screen_size": 8.0,
+      "resolution": "1968 x 2184",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "battery",
+      "software",
+      "build"
+    ],
+    "weakness": [
+      "performance",
+      "camera",
+      "software"
+    ]
+  },
+  "Samsung Galaxy Fold 6": {
+    "specs": {
+      "model_name": "Samsung Galaxy Fold 6",
+      "price": 674.99,
+      "battery": 4400,
+      "ram": 12,
+      "storage": 512,
+      "cpu_model": "Snapdragon",
+      "screen_size": 7.6,
+      "resolution": "2160 x 1856",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "screen"
+    ],
+    "weakness": [
+      "screen",
+      "connectivity",
+      "camera"
+    ]
+  },
+  "Samsung Galaxy S23 FE": {
+    "specs": {
+      "model_name": "Samsung Galaxy S23 FE",
+      "price": 218.75,
+      "battery": 4500,
+      "ram": 8,
+      "storage": 128,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.4,
+      "resolution": "2340 x 1080",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "build",
+      "screen",
+      "battery"
+    ],
+    "weakness": [
+      "connectivity",
+      "screen",
+      "camera"
+    ]
+  },
+  "Samsung Galaxy S23 Ultra 5G": {
+    "specs": {
+      "model_name": "Samsung Galaxy S23 Ultra 5G",
+      "price": 449.0,
+      "battery": 5000,
+      "ram": 12,
+      "storage": 512,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.8,
+      "resolution": "1440 x 3200",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "build",
+      "connectivity"
+    ],
+    "weakness": [
+      "connectivity",
+      "camera",
+      "build"
+    ]
+  },
+  "Samsung Galaxy S24 Ultra 5G": {
+    "specs": {
+      "model_name": "Samsung Galaxy S24 Ultra 5G",
+      "price": 574.99,
+      "battery": 5000,
+      "ram": 12,
+      "storage": 256,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.8,
+      "resolution": "1440 x 2960",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "screen",
+      "camera",
+      "battery"
+    ],
+    "weakness": [
+      "performance",
+      "software",
+      "camera"
+    ]
+  },
+  "Samsung Galaxy Z Flip 6": {
+    "specs": {
+      "model_name": "Samsung Galaxy Z Flip 6",
+      "price": 385.82,
+      "battery": 3700,
+      "ram": 12,
+      "storage": 256,
+      "cpu_model": "Snapdragon 8 Gen3",
+      "screen_size": 6.7,
+      "resolution": "1080 x 2340",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "build"
+    ],
+    "weakness": [
+      "screen",
+      "software"
+    ]
+  },
+  "Samsung S22+": {
+    "specs": {
+      "model_name": "Samsung S22+",
+      "price": 234.95,
+      "battery": 4500,
+      "ram": 8,
+      "storage": 256,
+      "cpu_model": "Snapdragon",
+      "screen_size": 6.6,
+      "resolution": "1080 x 2340",
+      "refresh_rate": 120
+    },
+    "strength": [
+      "camera",
+      "audio",
+      "battery"
+    ],
+    "weakness": [
+      "camera",
+      "screen"
+    ]
+  }
+}
