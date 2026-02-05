@@ -1,19 +1,16 @@
 ---
-title: Final Project Samrize
-emoji: 🚀
-colorFrom: red
-colorTo: red
+title: SamRize - Samsung Phone Summarizer
+emoji: 📱
+colorFrom: blue
+colorTo: blue
 sdk: docker
 app_port: 8501
 tags:
 - streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: Place to help you decide your next Samsung phone next purchase
 ---
 
 # Welcome to Streamlit!
 
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Try our demo **[here](https://huggingface.co/spaces/fluqs1808/Final_Project_Samrize)**
