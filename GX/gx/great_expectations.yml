@@ -116,7 +116,8 @@ fluent_datasources:
     assets:
       samsung-data:
         type: csv
-        filepath_or_buffer: ~/Documents/p2-ftds-final-project-ftds-050-rmt-group-001/SimpleScraper/clean.csv
+        filepath_or_buffer: 
+          /Users/Shared/Workspaces/FTDS_2025/Fase_2/Final_Project/p2-ftds-final-project-ftds-050-rmt-group-001/Data_Scraped/clean.csv
 notebooks:
 include_rendered_content:
   globally: false

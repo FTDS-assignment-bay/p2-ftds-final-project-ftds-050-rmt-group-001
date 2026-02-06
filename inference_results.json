@@ -13,13 +13,13 @@
     },
     "strength": [
       "software",
-      "battery",
-      "build"
+      "build",
+      "battery"
     ],
     "weakness": [
-      "screen",
-      "build",
-      "connectivity"
+      "connectivity",
+      "battery",
+      "software"
     ]
   },
   "Galaxy Note 20 Ultra 5G": {
@@ -35,14 +35,14 @@
       "refresh_rate": 120
     },
     "strength": [
-      "battery",
-      "connectivity",
-      "camera"
-    ],
-    "weakness": [
       "camera",
       "software",
       "screen"
+    ],
+    "weakness": [
+      "screen",
+      "software",
+      "connectivity"
     ]
   },
   "Galaxy S22 Ultra 5G": {
@@ -58,14 +58,14 @@
       "refresh_rate": 120
     },
     "strength": [
+      "camera",
       "battery",
-      "build",
-      "camera"
+      "software"
     ],
     "weakness": [
-      "screen",
+      "connectivity",
       "software",
-      "audio"
+      "screen"
     ]
   },
   "Galaxy S23": {
@@ -81,14 +81,14 @@
       "refresh_rate": 120
     },
     "strength": [
-      "screen",
-      "software",
-      "build"
+      "build",
+      "camera",
+      "screen"
     ],
     "weakness": [
-      "software",
+      "connectivity",
       "camera",
-      "battery"
+      "build"
     ]
   },
   "Galaxy S23+ 5G": {
@@ -104,14 +104,14 @@
       "refresh_rate": 120
     },
     "strength": [
-      "battery",
+      "screen",
       "build",
-      "camera"
+      "battery"
     ],
     "weakness": [
-      "software",
       "screen",
-      "audio"
+      "software",
+      "battery"
     ]
   },
   "Galaxy S24 5G": {
@@ -127,13 +127,13 @@
       "refresh_rate": 120
     },
     "strength": [
+      "connectivity",
       "software",
-      "build",
-      "connectivity"
+      "battery"
     ],
     "weakness": [
       "connectivity",
-      "battery",
+      "build",
       "software"
     ]
   },
@@ -150,13 +150,14 @@
       "refresh_rate": 120
     },
     "strength": [
-      "screen",
-      "connectivity",
-      "performance"
+      "camera",
+      "software",
+      "screen"
     ],
     "weakness": [
       "connectivity",
-      "screen"
+      "build",
+      "software"
     ]
   },
   "Galaxy S25 FE": {
@@ -173,13 +174,11 @@
     },
     "strength": [
       "camera",
-      "screen",
-      "software"
+      "software",
+      "performance"
     ],
     "weakness": [
-      "software",
-      "build",
-      "audio"
+      "camera"
     ]
   },
   "Galaxy S25 Ultra": {
@@ -196,12 +195,12 @@
     },
     "strength": [
       "screen",
-      "performance",
-      "battery"
+      "build",
+      "performance"
     ],
     "weakness": [
       "connectivity",
-      "battery"
+      "software"
     ]
   },
   "Galaxy Z Flip 4": {
@@ -217,14 +216,14 @@
       "refresh_rate": 120
     },
     "strength": [
-      "camera",
-      "software",
-      "battery"
+      "battery",
+      "performance",
+      "software"
     ],
     "weakness": [
       "battery",
       "connectivity",
-      "camera"
+      "screen"
     ]
   },
   "Galaxy Z Flip5 5G": {
@@ -240,12 +239,13 @@
       "refresh_rate": 120
     },
     "strength": [
-      "build",
-      "screen",
-      "camera"
+      "software",
+      "camera",
+      "build"
     ],
     "weakness": [
       "screen",
+      "build",
       "camera"
     ]
   },
@@ -267,7 +267,7 @@
     ],
     "weakness": [
       "screen",
-      "build"
+      "battery"
     ]
   },
   "Galaxy Z Fold 4": {
@@ -283,13 +283,14 @@
       "refresh_rate": 120
     },
     "strength": [
+      "build",
       "connectivity",
-      "camera",
-      "battery"
+      "screen"
     ],
     "weakness": [
-      "build",
-      "camera"
+      "screen",
+      "software",
+      "connectivity"
     ]
   },
   "Galaxy Z Fold7": {
@@ -306,13 +307,13 @@
     },
     "strength": [
       "camera",
-      "audio",
-      "screen"
-    ],
-    "weakness": [
-      "camera",
       "battery",
       "performance"
+    ],
+    "weakness": [
+      "performance",
+      "battery",
+      "camera"
     ]
   },
   "Samsung Galaxy Fold 6": {
@@ -328,12 +329,10 @@
       "refresh_rate": 120
     },
     "strength": [
-      "screen",
-      "build",
-      "battery"
+      "screen"
     ],
     "weakness": [
-      "camera",
+      "software",
       "screen",
       "battery"
     ]
@@ -351,14 +350,14 @@
       "refresh_rate": 120
     },
     "strength": [
-      "battery",
       "camera",
-      "build"
+      "screen",
+      "software"
     ],
     "weakness": [
+      "battery",
       "connectivity",
-      "software",
-      "screen"
+      "performance"
     ]
   },
   "Samsung Galaxy S23 Ultra 5G": {
@@ -375,13 +374,12 @@
     },
     "strength": [
       "build",
-      "connectivity",
       "software"
     ],
     "weakness": [
       "connectivity",
-      "screen",
-      "build"
+      "build",
+      "battery"
     ]
   },
   "Samsung Galaxy S24 Ultra 5G": {
@@ -397,14 +395,14 @@
       "refresh_rate": 120
     },
     "strength": [
-      "screen",
       "battery",
-      "performance"
+      "audio",
+      "camera"
     ],
     "weakness": [
-      "connectivity",
+      "camera",
       "software",
-      "camera"
+      "connectivity"
     ]
   },
   "Samsung Galaxy Z Flip 6": {
@@ -420,14 +418,12 @@
       "refresh_rate": 120
     },
     "strength": [
-      "camera",
       "build",
-      "audio"
+      "software"
     ],
     "weakness": [
       "screen",
-      "connectivity",
-      "battery"
+      "software"
     ]
   },
   "Samsung S22+": {
@@ -443,13 +439,13 @@
       "refresh_rate": 120
     },
     "strength": [
-      "camera",
       "battery",
-      "software"
+      "camera",
+      "audio"
     ],
     "weakness": [
-      "camera",
-      "battery"
+      "screen",
+      "camera"
     ]
   }
 }
